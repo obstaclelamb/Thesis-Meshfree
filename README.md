@@ -51,13 +51,13 @@ MAIN
 ```
 
 Examples
-01_LinearPatchTest: Verifies the basic implementation of RKPM by performing a linear patch test.
-02_BeamProblem: Analyzes the behavior of a beam under different loading conditions.
-03_PlateProblem: Solves plate bending problems using RKPM.
-04_PoissonProblem_src: Addresses the Poisson equation in 2D.
-05_FEA_Model: Provides a framework for general finite element analysis using RKPM.
-06_TensileTest: Simulates a tensile test on a specimen.
-PlotRKShapeFunction: Generates plots of RKPM shape functions.
+* 01_LinearPatchTest: Verifies the basic implementation of RKPM by performing a linear patch test.
+* 02_BeamProblem: Analyzes the behavior of a beam under different loading conditions.
+* 03_PlateProblem: Solves plate bending problems using RKPM.
+* 04_PoissonProblem_src: Addresses the Poisson equation in 2D.
+* 05_FEA_Model: Provides a framework for general finite element analysis using RKPM.
+* 06_TensileTest: Simulates a tensile test on a specimen.
+* PlotRKShapeFunction: Generates plots of RKPM shape functions.
 
 # Customization
 
