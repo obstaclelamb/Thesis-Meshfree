@@ -54,6 +54,36 @@ Examples
 * 06_TensileTest: Simulates a tensile test on a specimen.
 * PlotRKShapeFunction: Generates plots of RKPM shape functions.
 
+# Output
+
+## Domain setup
+
+![](https://github.com/obstaclelamb/Thesis-Meshfree/blob/main/fig/NodalRepresentativeDomain.jpg)
+![](https://github.com/obstaclelamb/Thesis-Meshfree/blob/main/fig/SupportandNeighbors.jpg)
+
+## Solutions
+
+![Deformed](https://github.com/obstaclelamb/Thesis-Meshfree/blob/main/fig/DeformedConfiguration.jpg)
+
+### displacement
+
+![](https://github.com/obstaclelamb/Thesis-Meshfree/blob/main/fig/u1.jpg)
+![](https://github.com/obstaclelamb/Thesis-Meshfree/blob/main/fig/u2.jpg)
+
+
+### stress
+
+![](https://github.com/obstaclelamb/Thesis-Meshfree/blob/main/fig/sigma11.jpg)
+![](https://github.com/obstaclelamb/Thesis-Meshfree/blob/main/fig/sigma12.jpg)
+![](https://github.com/obstaclelamb/Thesis-Meshfree/blob/main/fig/sigma22.jpg)
+
+### strain
+
+![](https://github.com/obstaclelamb/Thesis-Meshfree/blob/main/fig/epsilon11.jpg)
+![](https://github.com/obstaclelamb/Thesis-Meshfree/blob/main/fig/epsilon12.jpg)
+![](https://github.com/obstaclelamb/Thesis-Meshfree/blob/main/fig/epsilon22.jpg)
+
+
 # Customization
 
 Input Files: Modify the getInput.m file in each example directory to adjust problem parameters, material properties, boundary conditions, and discretization settings.
