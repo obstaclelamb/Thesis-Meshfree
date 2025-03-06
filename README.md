@@ -38,16 +38,11 @@ This repository contains MATLAB code for 3D analysis using the Reproducing Kerne
 git clone https://github.com/obstaclelamb/Thesis-Meshfree.git
 ```
 
-## Navigate to the desired example directory:
-
-```{Bash}
-cd RKPM2D/01_LinearPatchTest
-```
-
 ## Run the `MAIN.m` script:
 
 ```{Matlab}
 MAIN
+%  XD
 ```
 
 Examples
