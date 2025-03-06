@@ -35,7 +35,7 @@ This repository contains MATLAB code for 3D analysis using the Reproducing Kerne
 ## Clone the repository:
 
 ```{Bash}
-git clone https://github.com/your-username/RKPM2D.git
+git clone https://github.com/obstaclelamb/Thesis-Meshfree.git
 ```
 
 ## Navigate to the desired example directory:
