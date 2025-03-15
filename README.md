@@ -29,7 +29,7 @@ or just press `F5` when you looking at `MAIN.m`. This file is already contain th
 ## Run the demostration of RKPM 1-dimensional explaination (when `MAIN.m` is in the path (current folder)):
 
 ```
-addpath(RK1Dcode_modified)
+addpath('RK1Dcode_modified')
 RK1D_demo
 ```
 
