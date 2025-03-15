@@ -1,0 +1,11 @@
+function k = RKPM1D(i)
+result = RK1D(@(x)(x.*x),linspace(0,1,11),3,i,'Quintic B');
+k.a = result.X;
+k.b = result.DEG;
+k.c = result.kernel;
+k.d = result.shape_fun;
+k.e = result.Dshape_fun;
+k.f = result.DDshape_fun;
+k.g = result.C;
+k.h = result.DC;
+k.i = result.DDC;
